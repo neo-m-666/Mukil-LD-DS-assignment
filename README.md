@@ -1,4 +1,4 @@
-# Mukil-LD-DS-assignment
+# Mukil-LD-DS-assignment(parallel dots)
 
 The aim of this assignment is to carry out zero-shot product detection across various images using Meta’s SAM2 segmentation model.
 
